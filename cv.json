@@ -1,0 +1,91 @@
+{
+  "nombre": "Mouhamadou Bachir Seck",
+  "datosPersonales": {
+    "nombre": "Mouhamadou Bachir Seck",
+    "mail": "seckmouhamadoubashir@gmail.com",
+    "telefono": "+34 687 405 923",
+    "direccion": "errenteria, España",
+    "lema": "Apasionado por la tecnología y el desarrollo web",
+    "fechaNacimiento": "2002-12-19"
+  },
+  "experiencia": [
+    {
+      "puesto": "empleado polyvalente de mcdonalds",
+      "periodo": "julio,agosto,septiembre y diciembre 2023 ",
+      "descripcion": "garantiza un servicio rápido y de calidad en el restaurante",
+      "funciones": [
+        "preparación de pedidoss",
+        "atención al cliente",
+        "mantenimiento de la limpieza y la higiene del local",
+         "en ocasiones, tareas relacionadas con la gestión de inventarios y equipos"
+      ]
+    },
+    { 
+      "puesto": "lavaplatos",
+      "periodo": "junio 2023",
+      "descripcion": "Mantener la limpieza de platos, utensilios y equipos de cocina.",
+      "funciones": [
+        "Limpiar la vajilla, los cubiertos y el equipo de cocina",
+        "garantizar el cumplimiento de las normas de higiene y seguridad alimentaria",
+        "colaborar con   el equipo de cocina para asegurar un flujo de trabajo eficiente"
+      ]
+    },
+    {
+      "puesto": "practicante de instalador de telecomunicaciones",
+      "periodo": "mayo 2023",
+      "descripcion": "Instalación y mantenimiento de sistemas de telecomunicaciones.",
+      "funciones": [
+        "Instalación de redes de datos y sistemas de seguridad",
+        "Mantenimiento preventivo y correctivo de equipos",
+        "Colaboración en proyectos de domótica"
+      ]
+    }
+  ],
+  "formacion": [
+    {
+      "titulo": "BACHILLERATO",
+      "institucion": "GRUPO ESCOLAR SALDIA",
+      "temario": "JavaScript, React, Node.js, Bases de datos"
+    },
+    {
+      "titulo": "Grado en Instalaciones de telecomunicaciones",
+      "horas": "2000 horas",
+      "institucion": "GRUPO ESCOLAR SALDIA",
+      "temario": "Instalaciones de telecomunicaciones, redes de datos, sistemas de seguridad y domatica"
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "frances",
+      "lectura": 10,
+      "escritura": 10,
+      "comprension": 10,
+      "nivel": "C2"
+    },
+    {
+      "idioma": "español",
+      "lectura": 8,
+      "escritura": 10,
+      "comprension": 7,
+      "nivel": "B1"
+    },
+    {
+      "idioma": "Inglés",
+      "lectura": 6,
+      "escritura": 7,
+      "comprension": 8,
+      "nivel": "B2"
+    }
+  
+  ],
+  "contacto": {
+    "titulo": "Información de Contacto",
+    "descripcion": "Puedes contactarme a través de los siguientes medios"
+  },
+  "footer": {
+    "texto": "© 2025 Mouhamadou Bachir Seck"
+  }
+}
+
+
+
